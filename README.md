@@ -180,9 +180,17 @@ J2EE-Example-Project/
 - ✅ Use JPA/Hibernate for ORM and database management
 - ✅ Apply best practices for error handling and email verification
 
-## 🧑‍💻 Author
+## 🧑‍💻 Student & Course Details
 
-Chamika Gayashan  
-Undergraduate Software Engineer | Sri Lanka  
-Linkedin: @chamikathereal  
-Current date: Saturday, July 05, 2025, 12:48 AM +0530
+**Course**: Birmingham City University BSc (Hons) Software Engineering - Top Up  
+**Unit Name**: Business Component Development II  
+**Unit ID**: JIAT/BCD II  
+**Assignment ID**: JIAT/BCD II/EX/01  
+**Institution**: Java Institute for Advanced Technology  
+## ðŸ§‘â€ðŸ’» Student & Course Details
+
+**Course**: Birmingham City University BSc (Hons) Software Engineering - Top Up  
+**Unit Name**: Business Component Development II  
+**Unit ID**: JIAT/BCD II  
+**Assignment ID**: JIAT/BCD II/EX/01  
+**Institution**: Java Institute for Advanced Technology  
