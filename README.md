@@ -180,8 +180,10 @@ J2EE-Example-Project/
 - ✅ Use JPA/Hibernate for ORM and database management
 - ✅ Apply best practices for error handling and email verification
 
-## 🧑‍💻 Student & Course Details
+## 🧑‍💻 Author & Student Details
 
+**Name**: Dulanjaya Lakruwan  
+**LinkedIn**: [Dulanjaya Lakruwan](https://www.linkedin.com/in/dulanjaya-lakruwan-b8a74a26a/)  
 **Course**: Birmingham City University BSc (Hons) Software Engineering - Top Up  
 **Unit Name**: Business Component Development II  
 **Unit ID**: JIAT/BCD II  
